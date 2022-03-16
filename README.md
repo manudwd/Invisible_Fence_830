@@ -3,6 +3,8 @@ Project for ECE 830
 ## Repositories
 
 This repository contains self labelled data from Roboflow Annotate 
+https://docs.roboflow.com/annotate
+
 
 ## Describe your project
 
@@ -14,6 +16,13 @@ Racoons
 Deers
 Owls
 Humans
+
+There are 1857 Images belonging to these 6 classes: 
+For our model we used: 
+1.3k Test images 
+371 Validation images
+190 test images 
+
 
 To be developed in the context of Homesafety: 
 
